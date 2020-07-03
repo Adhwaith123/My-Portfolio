@@ -1,0 +1,45 @@
+h1{
+    color :rgb(228, 153, 15);
+    font-style: italic; 
+   
+
+}
+p{
+    color :darkorange;  
+    text-align:center;
+     font-style: italic; 
+}
+
+.header{
+    background-color: rgb(133, 16, 241);
+    border:solid;
+    border-width: 15px; 
+    border-color:rgb(247, 145, 12);
+    display:flex;
+    justify-content:space-between ;
+}
+.header2{
+    display:flex;
+    justify-content:space-evenly;
+    }
+    .social{
+        display:flex;
+        justify-content:flex-end;
+    }
+    .Pong{
+display:flex;
+flex-wrap: wrap;
+justify-content:space-around;
+    
+    }
+    body{
+        background-color:#e7dbdb;   
+        background-image: url("d3.png");
+        background-size: 100% 50%; 
+    }
+    .item2{
+        font-size: x-large;
+    }
+    .slogan{
+        font-size: x-large;
+    }
